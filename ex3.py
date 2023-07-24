@@ -2,7 +2,7 @@ class House:
     theme = 'ee'
     author = 'de'
 
-#инициализатор обьекта класаа
+#инициализатор обьекта класаа/ вызывается после создания обьекта
     def __init__(self, x = 0, y =0):
         print("init" + str(self))
         self.x = x
