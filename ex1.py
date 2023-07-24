@@ -1,4 +1,6 @@
 class House:
+     "Класс вид Домов"
+
 #Атрибуты/свойства класса
      theme = 'Color mode'
      author = 'Name '
